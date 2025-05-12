@@ -1,9 +1,8 @@
 # supervised-machine-learning--walmart-sales
 
-<img src="https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png" alt="WALMART LOGO" />
+Project completed as part of my Data Science Fullstack training at Jedha (Paris)
 
 # Walmart : predict weekly sales
-
 ## Company's Description 📇
 
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
