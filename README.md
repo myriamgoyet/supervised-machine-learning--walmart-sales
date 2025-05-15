@@ -35,10 +35,6 @@ To complete this project, you should:
 
 
 # My results :
-	                R2 Score Train	R2 Score Test	RMSE Train	RMSE Test
-Baseline-LR	            0.991767	0.937586	62813.054981	145562.580280
-Ridge (alpha : 0.1271)	0.990520	0.942983	67401.647594	139126.592890
-Lasso (alpha : 6.355)	0.991767	0.937675	62813.534904	145459.096655
 
    Models               | R2 Score Train | R2 Score Test | RMSE Train   | RMSE Test    |
  |----------------------|----------------|---------------|--------------|--------------|
@@ -47,4 +43,3 @@ Lasso (alpha : 6.355)	0.991767	0.937675	62813.534904	145459.096655
  | Lasso (alpha: 6.355) | 0.991767	     | 0.937675	     | 62813.534904	| 145459.096655|
 
  ![Coefficients](coefs.png)
- 
