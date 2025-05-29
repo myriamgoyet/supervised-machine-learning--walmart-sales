@@ -1,4 +1,4 @@
-# supervised-machine-learning--walmart-sales
+# PROJECT WALMART - PREDICT WEEKLY SALES AVOIDING OVERFITTING
 
 Project completed as part of my Data Science Fullstack training at Jedha (Paris)
 
